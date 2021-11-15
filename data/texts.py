@@ -74,7 +74,7 @@ complain = [
 ]
 not_partner = ["Anda tidak memiliki pasangan.", "You don't have a partner."]
 already_have_partner = [
-    "Anda sudah memiliki pasangan.\n/berikutnya - mitra berikutnya",
+    "Anda sudah memiliki pasangan.\n/next - mitra berikutnya",
     "You already have a partner.\n/next - next partner",
 ]
 already_searching = [
@@ -85,7 +85,7 @@ stop_search = [
     [
         """
 Anda telah menyelesaikan pencarian 😞
-Ketik /cari untuk menemukan yang berikutnya""",
+Ketik /search untuk menemukan yang berikutnya""",
     ],
     [
         """
@@ -97,7 +97,7 @@ female_search = [
     [
         """
 Pasangan Ditemukan 🐵
-/berikutnya — mitra berikutnya
+/next — mitra berikutnya
 /stop — Akhiri dialog""",
         "Mencari perempuan...",
     ],
