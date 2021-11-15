@@ -1,9 +1,9 @@
 stop_chat = [
     [
         """
-Anda telah menyelesaikan obrolan Ketik /cari untuk menemukan teman baru""",
+Anda telah menyelesaikan obrolan Ketik /search untuk menemukan teman baru""",
         """
-Teman anda telah menyelesaikan obrolan Ketik /cari untuk menemukan teman baru""",
+Teman anda telah menyelesaikan obrolan Ketik /search untuk menemukan teman baru""",
     ],
     [
         """
