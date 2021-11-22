@@ -33,24 +33,22 @@ user_unbanned = [
 
 start_menu = [
     """
-Senang melihat Anda di obrolan telegram anonim
-
 Perintah yang tersedia:
 /next - mitra berikutnya
 /search - Mencari pasangan
 /stop - Akhiri dialog
 /sharelink - Kirim tautan Akun Telegram Anda
 
+Demi kenyamanan dan keamanan, kami tidak menyimpan data apapun dari pengguna bot ini
 jangan lupa gabung di grub @teman_online3""",
     """
-Glad to see you in anonymous telegram chat
-
 Available commands:
 /next - Next partner
 /search - Find a partner
 /stop - End the dialog
 /sharelink - Send a link to your Telegram Account
 
+For the sake of convenience and security, we do not store any data from the users of this bot
 don't forget to join the group @teman_online3""",
 ]
 
