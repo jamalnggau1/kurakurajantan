@@ -38,9 +38,7 @@ Perintah yang tersedia:
 /search - Mencari pasangan
 /stop - Akhiri dialog
 /sharelink - Kirim tautan Akun Telegram Anda
-
-Demi kenyamanan dan keamanan, kami tidak menyimpan data apapun dari pengguna bot ini
-jangan lupa gabung di grub @teman_online3""",
+""",
     """
 Available commands:
 /next - Next partner
